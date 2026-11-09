@@ -1,0 +1,8 @@
+{
+  "name": "SMART PLACEMENT TRACKER",
+  "description": "Intelligent student placement preparation platform to identify skill gaps, master DSA & technical subjects, track applications, and achieve dream campus placements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
